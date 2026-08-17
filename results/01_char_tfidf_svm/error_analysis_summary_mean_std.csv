@@ -1,0 +1,2 @@
+model,n_folds,n_samples_mean,Correct L2_mean,Wrong L2 but correct L1_mean,Wrong L1_mean,Correct L2 pct_mean,Wrong L2 but correct L1 pct_mean,Wrong L1 pct_mean,n_samples_std,Correct L2_std,Wrong L2 but correct L1_std,Wrong L1_std,Correct L2 pct_std,Wrong L2 but correct L1 pct_std,Wrong L1 pct_std
+char_tfidf_linearsvm_balanced,5,358.6,250.4,50.4,57.8,0.698261776193959,0.1405502559873020,0.1611879678187390,0.54772255750517,3.8470768123342700,5.683308895353130,5.357238094391550,0.00989080974727258,0.015875465587254000,0.015012731666680900

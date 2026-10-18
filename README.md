@@ -72,6 +72,10 @@ Each prediction file has the columns `id, test_fold, gold_L1, gold_L2, pred_L2, 
 
 `data/dataset_with_test_fold.csv` holds the 1,793 requirements used in the paper. They come from the non-functional requirements of the FR_NFR dataset ([Mendeley Data](https://data.mendeley.com/datasets/4ysx9fyzv4/1)), annotated by three annotators with ISO/IEC 25010 characteristics (Level 1) and sub-characteristics (Level 2). See `data/README.md` for the columns and the exclusion steps.
 
+## License
+
+The code is released under the MIT License (`LICENSE`). The dataset and label cards are released under CC BY 4.0 (see `data/README.md`).
+
 ## Citation
 
 If you use this code or data, please cite the paper (citation details will be added after publication).

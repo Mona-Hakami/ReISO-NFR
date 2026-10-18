@@ -28,3 +28,7 @@ The source is the FR_NFR dataset ([Mendeley Data](https://data.mendeley.com/data
 | Minority characteristics (≤ 30 each, outside the product quality model) | Regulation compliance (30), freedom from risk (24), satisfaction (19), data privacy (17), tailorability (15), context coverage (9), efficiency (5), robustness (5), timeliness (5), effectiveness (3) | 132 |
 | Minority sub-characteristics (< 10 each) | Co-existence (5), reusability (4) | 9 |
 | **Total** | | **329** |
+
+## License
+
+The dataset and label cards are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The requirement texts come from the FR_NFR dataset (Mendeley Data, DOI: [10.17632/4ysx9fyzv4.1](https://doi.org/10.17632/4ysx9fyzv4.1)), also licensed under CC BY 4.0; please cite that source as well.
